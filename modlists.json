@@ -1,0 +1,45 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Difficulty, Immersion, Quality",
+    "description": "A curated, one-click collection of over 1000 gameplay-enhancing mods, thoughtfully assembled to elevate combat depth, narrative coherence, and overall polish. Packed with custom configurations, bug fixes, and tweaks, including level 20 support via Expansion compatibility, balanced injury and exhaustion systems, combat extender refinements, and more, this collection redefines the BG3 experience for players seeking challenge, immersion, and quality in equal measure.",
+    "author": "vexorant & BaldursGoonsack",
+    "maintainers": [
+      "github/vexorant",
+      "github/BaldursGoonsack"
+    ],
+    "game": "BaldursGate3",
+    "tags": [
+      "NSFW",
+      "Steam",
+      "GOG",
+      "Dark Fantasy",
+      "Combat Overhaul",
+      "Total Overhaul",
+      "Vanilla+"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/main/DIQ%20Wabbajack%20Banner.png",
+      "readme": "https://github.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/wiki/1.-Installation-%E2%80%90-Wabbajack-&-MO2",
+      "download": "https://authored-files.wabbajack.org/Difficulty,%20Immersion,%20Quality.wabbajack_aa5db5cc-dbaa-4a7a-9a84-c7cd839a8878",
+      "machineURL": "DIQWabbajack",
+      "discordURL": "https://discord.gg/baldursgoonsacks",
+      "websiteURL": "https://www.nexusmods.com/games/baldursgate3/collections/pns4qv"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "lKX4Vi/xm+c=",
+      "Size": 320317904,
+      "NumberOfArchives": 1337,
+      "SizeOfArchives": 90264116597,
+      "NumberOfInstalledFiles": 11359,
+      "SizeOfInstalledFiles": 116124920429
+    },
+    "version": "144.0.0"
+  }
+]
+
