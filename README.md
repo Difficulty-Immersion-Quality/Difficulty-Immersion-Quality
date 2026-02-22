@@ -130,7 +130,7 @@ Where I lay mods to rest after removal from the other collections. <br>:notebook
  Where I store a whole host of stuff as a backup.\
 :notebook: Not for general use. :notebook:
 ___
-# :man_mage: Oblivion Remastered :man_mage:
+# :mage: Oblivion Remastered :mage:
 
 :hut: [Goonsack's Goon Shack](https://www.nexusmods.com/games/oblivionremastered/collections/xussuc) :hut: <br>
  A currently abandoned WIP I made after release.
@@ -148,6 +148,7 @@ ___
 </details>
 
 </div>
+
 
 
 
