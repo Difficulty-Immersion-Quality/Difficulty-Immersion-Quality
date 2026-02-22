@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# $`\textcolor{orange}{\text{Difficulty, Immersion, Quality}}`$ 
-
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Main%20Banner.png)
 
 Listed below is information about BaldursGoonsack's Difficulty, Immersion, Quality modlist.
