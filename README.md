@@ -43,11 +43,18 @@ Players report issues and they're continually addressed to offer the best experi
 Basically every mod within the collection is unpacked and screened for compatibility and other issues before being added, files and entries are constantly compared ensuring DIQ does not suffer from near as many compatibility issues other mod lists may have.
 
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Extras%20and%20Other%20Stuff%20Banner.png)
-- :warning: If you want to mod a game you must be willing to **read**, **learn** and **commit** some time to it. Even when using a collection in its default state you should be attempting to understand the **what**, **why** and **how**.
-- :question: If you have a general question it's likely already answered on this page.
-- :trophy: You can earn achievements with this collection installed thanks to [Script Extender](https://github.com/Norbyte/bg3se)!
-- :bulb: A decent portion of the collection's size is found in the optional mods.
-- :writing_hand: Most mods are not translated to languages other than English, some comprehension of English is basically required.
+:warning: If you want to mod a game you must be willing to **read**, **learn** and **commit** some time to it. Even when using a collection in its default state you should be attempting to understand the **what**, **why** and **how**. <br>
+<br>
+:question: If you have a general question it's likely already answered on this page.
+<br>
+<br>
+:trophy: You can earn achievements with this collection installed thanks to [Script Extender](https://github.com/Norbyte/bg3se)!
+<br>
+<br>
+:bulb: A decent portion of the collection's size is found in the optional mods.
+<br>
+<br>
+:writing_hand: Most mods are not translated to languages other than English, some comprehension of English is basically required.
 
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20The%20Do%20Nots%20Banner.png)
 
