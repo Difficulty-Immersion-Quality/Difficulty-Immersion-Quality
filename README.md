@@ -15,8 +15,8 @@ Difficulty, Immersion, Quality (DIQ) is _probably_ the most polished publicly av
 \
 My hope with DIQ is to try and move BG3 away from being a theme park ride and introduce more gameplay elements one would expect of an immersive sim, elevating the already solid RPG bones underneath.
 
->[!important]
->This page has been ported from the original [collection page on Nexus](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv) and will be updated further.
+[!important]
+This page has been ported from the original [collection page on Nexus](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv) and will be updated further.
 
 
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Difficulty%20Banner.png)
@@ -146,3 +146,4 @@ ___
 </details>
 
 </div>
+
