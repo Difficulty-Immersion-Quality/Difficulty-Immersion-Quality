@@ -44,6 +44,7 @@ Players report issues and they're continually addressed to offer the best experi
 Basically every mod within the collection is unpacked and screened for compatibility and other issues before being added, files and entries are constantly compared ensuring DIQ does not suffer from near as many compatibility issues other mod lists may have.
 
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Extras%20and%20Other%20Stuff%20Banner.png)
+
 :warning: If you want to mod a game you must be willing to **read**, **learn** and **commit** some time to it. Even when using a collection in its default state you should be attempting to understand the **what**, **why** and **how**. <br>
 <br>
 :question: If you have a general question it's likely already answered on this page.
