@@ -101,7 +101,6 @@ My primary collection, a full overhaul of Baldur's Gate 3.
 <br>
 <br>
 :notebook:[BG3 Essentials](https://next.nexusmods.com/baldursgate3/collections/1asizr) is a standalone collection, the mods are already included in [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv). :notebook:
-
 ___ 
 ### :fire: :100: <u> Supported [Difficulty, Immersion, Quality](https://next.nexusmods.com/baldursgate3/collections/pns4qv) Addons <u> :100: :fire:
 ___
