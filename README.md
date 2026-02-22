@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Main%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Main%20Banner.png)
 
 Listed below is information about BaldursGoonsack's Difficulty, Immersion, Quality modlist.
 
@@ -9,7 +9,7 @@ Listed below is information about BaldursGoonsack's Difficulty, Immersion, Quali
 
 Available on two platforms, Difficulty, Immersion, Quality can be played and installed via [Vortex](https://www.nexusmods.com/site/mods/1) or [Wabbajack](https://www.wabbajack.org/) and [Mod Organizer 2](https://github.com/Modorganizer2/modorganizer/releases). 
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Overview%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Overview%20Banner.png)
 
 Difficulty, Immersion, Quality (DIQ) is _probably_ the most polished publicly available large scale mod list for Baldur's Gate 3 (BG3), it has been consistently curated over the course of 2+ years in an attempt to capture a specific vision that's still being worked towards.\
 \
@@ -20,13 +20,13 @@ My hope with DIQ is to try and move BG3 away from being a theme park ride and in
 > This page has been ported from the original [collection page on Nexus](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv) and will be updated further.
 
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Difficulty%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Difficulty%20Banner.png)
 
 DIQ is a list focused on bringing a greater challenge for players with a background in CRPGs, tabletop, or even those unfamiliar who just like a punch in the nuts every now and then.
 
 Difficulty isn't _only_ increased through the buffing of numbers, it's enhanced by the addition of systematic changes that truly change the game and the way you play it. From adjusting [help](https://www.nexusmods.com/baldursgate3/mods/10340) and [healing potions](https://www.nexusmods.com/baldursgate3/mods/15391), to [having NPCs with improved class functionality](https://www.nexusmods.com/baldursgate3/mods/15535), or adding a whole new system for [injuries, exhaustion and madness](https://www.nexusmods.com/baldursgate3/mods/14863) there should be plenty to make your playthrough challenging and satisfying.
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Immersion%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Immersion%20Banner.png)
 
 It's all about the little things adding up when it comes to capturing a more immersive experience. From something small like [taking off your shoes before bed](https://www.nexusmods.com/baldursgate3/mods/14726), to something creative like [Gale's Netherese affliction being more mechanically involved](https://www.nexusmods.com/baldursgate3/mods/14442) or something that really shouldn't need to be a mod, like [giving Minthara her own space](https://www.nexusmods.com/baldursgate3/mods/14148).
 
@@ -34,7 +34,7 @@ While I don't adhere to rules as written (RAW) religiously, D&D 5th Edition (201
 
 The homebrew material that does exist in DIQ shouldn't feel too far detached from D&D 5th Edition (2014), Forgotten Realms or vanilla Baldur's Gate 3.
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Quality%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Quality%20Banner.png)
 
 I am a mod author, and many of the authors who's mods are in the collection are also present and active within the [Discord](https://discord.gg/baldursgoonsacks); such as [osirisofinternet](https://www.nexusmods.com/baldursgate3/users/6682532) (Di Immortalis), [actualsailorcat](https://www.nexusmods.com/baldursgate3/users/78518828), [Cahooots](https://www.nexusmods.com/baldursgate3/users/50497581), [wtfbengt](https://www.nexusmods.com/baldursgate3/users/16726234), [TheWailingBard](https://www.nexusmods.com/baldursgate3/users/60264956), [sumradagnoth8](https://www.nexusmods.com/baldursgate3/users/186661377), [NellsRelo](https://www.nexusmods.com/baldursgate3/users/244952) and [Lumaterian](https://www.nexusmods.com/baldursgate3/users/193037348).
 
@@ -42,7 +42,7 @@ Players report issues and they're continually addressed to offer the best experi
 
 Basically every mod within the collection is unpacked and screened for compatibility and other issues before being added, files and entries are constantly compared ensuring DIQ does not suffer from near as many compatibility issues other mod lists may have.
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20Extras%20and%20Other%20Stuff%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Extras%20and%20Other%20Stuff%20Banner.png)
 :warning: If you want to mod a game you must be willing to **read**, **learn** and **commit** some time to it. Even when using a collection in its default state you should be attempting to understand the **what**, **why** and **how**. <br>
 <br>
 :question: If you have a general question it's likely already answered on this page.
@@ -56,7 +56,7 @@ Basically every mod within the collection is unpacked and screened for compatibi
 <br>
 :writing_hand: Most mods are not translated to languages other than English, some comprehension of English is basically required.
 
-![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/DIQ%20The%20Do%20Nots%20Banner.png)
+![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20The%20Do%20Nots%20Banner.png)
 
  :x: Do not seek support when using the collection outside of my [Discord](https://discord.gg/baldursgoonsacks) or this collection page, do not report bugs to authors when using the collection. The folks spending their free time helping in the [Larian Studios Discord](https://discord.gg/larianstudios) will just direct you back to me, and authors don't need reports of false positives that waste their time :x:
 
