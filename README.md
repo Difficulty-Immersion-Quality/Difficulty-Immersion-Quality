@@ -14,12 +14,13 @@ Available on two platforms, Difficulty, Immersion, Quality can be played and ins
 Difficulty, Immersion, Quality (DIQ) is _probably_ the most polished publicly available large scale mod list for Baldur's Gate 3 (BG3), it has been consistently curated over the course of 2+ years in an attempt to capture a specific vision that's still being worked towards.\
 \
 My hope with DIQ is to try and move BG3 away from being a theme park ride and introduce more gameplay elements one would expect of an immersive sim, elevating the already solid RPG bones underneath.
+</div>
 
-> [!note]
->
-> This page has been ported from the original [collection page on Nexus](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv) and will be updated further.
+>[!important]
+>This page has been ported from the original [collection page on Nexus](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv) and will be updated further
 
-
+<div align="center">
+ 
 ![](https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/refs/heads/main/Placeholder%20Art/DIQ%20Difficulty%20Banner.png)
 
 DIQ is a list focused on bringing a greater challenge for players with a background in CRPGs, tabletop, or even those unfamiliar who just like a punch in the nuts every now and then.
@@ -129,7 +130,7 @@ Where I lay mods to rest after removal from the other collections. <br>:notebook
  Where I store a whole host of stuff as a backup.\
 :notebook: Not for general use. :notebook:
 ___
-# :man_mage: Oblivion Remastered :man_mage:
+# :mage: Oblivion Remastered :mage:
 
 :hut: [Goonsack's Goon Shack](https://www.nexusmods.com/games/oblivionremastered/collections/xussuc) :hut: <br>
  A currently abandoned WIP I made after release.
@@ -147,3 +148,6 @@ ___
 </details>
 
 </div>
+
+
+
