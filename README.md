@@ -5,7 +5,7 @@
 
 Listed below is information about BaldursGoonsack's Difficulty, Immersion, Quality modlist.
 
-[  [Changelog](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv/changelog) | [Discord](https://discord.gg/baldursgoonsacks) | [Load Order](https://loadorderlibrary.com/lists/difficulty-immersion-quality) ]
+[  [Wiki](https://gitlab.com/Difficulty-Immersion-Quality/DIQ-Meta-Files/Difficulty-Immersion-Quality/-/wikis/Home) | [Changelog](https://www.nexusmods.com/games/baldursgate3/collections/pns4qv/changelog) | [Discord](https://discord.gg/baldursgoonsacks) | [Load Order](https://loadorderlibrary.com/lists/difficulty-immersion-quality) ]
 
 Available on two platforms, Difficulty, Immersion, Quality can be played and installed via [Vortex](https://www.nexusmods.com/site/mods/1) or [Wabbajack](https://www.wabbajack.org/) and [Mod Organizer 2](https://github.com/Modorganizer2/modorganizer/releases). 
 
