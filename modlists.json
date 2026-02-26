@@ -10,13 +10,15 @@
     ],
     "game": "BaldursGate3",
     "tags": [
-      "NSFW",
+      "Total Overhaul",
+      "Combat Overhaul",
+      "Dark Fantasy",
+      "Hardcore",
+      "Survival",
+      "Multiplayer",
       "Steam",
       "GOG",
-      "Dark Fantasy",
-      "Combat Overhaul",
-      "Total Overhaul",
-      "Vanilla+"
+      "NSFW"
     ],
     "nsfw": true,
     "image_contains_title": false,
