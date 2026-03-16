@@ -27,19 +27,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/main/DIQWabbaBanner.png",
       "readme": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/01-Home",
-      "download": "https://authored-files.wabbajack.org/DIQWabba.wabbajack_6110ce6d-8194-45cd-ac83-f6cb607e54e1",
+      "download": "https://authored-files.wabbajack.org/DIQWabba.wabbajack_b52ac88e-64e4-478e-ba9d-1ee9b4172b1c",
       "machineURL": "DIQWabbajack",
       "discordURL": "https://discord.gg/baldursgoonsacks",
       "websiteURL": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/01-Home"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Cr4iimt77sA=",
-      "Size": 12266037,
+      "Hash": "QjgSTYUlNx4=",
+      "Size": 12266295,
       "NumberOfArchives": 1358,
       "SizeOfArchives": 91714689479,
       "NumberOfInstalledFiles": 11130,
-      "SizeOfInstalledFiles": 117190525277
+      "SizeOfInstalledFiles": 117190526724
     },
     "version": "144.0.0"
   }
