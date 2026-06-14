@@ -34,14 +34,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "MC50+mrv68k=",
-      "Size": 13758784,
-      "NumberOfArchives": 1275,
-      "SizeOfArchives": 75491333218,
-      "NumberOfInstalledFiles": 11008,
-      "SizeOfInstalledFiles": 109308716576
+      "Hash": "DS6Rf2M1up4=",
+      "Size": 10512083,
+      "NumberOfArchives": 1274,
+      "SizeOfArchives": 75501289475,
+      "NumberOfInstalledFiles": 10958,
+      "SizeOfInstalledFiles": 109342776976
     },
-    "version": "147.0"
+    "version": "147.1"
   }
 ]
 
