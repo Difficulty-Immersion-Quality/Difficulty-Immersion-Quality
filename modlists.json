@@ -26,11 +26,11 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/main/DIQWabbaBanner.png",
-      "readme": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/01-Home",
+      "readme": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/00-Home",
       "download": "https://authored-files.wabbajack.org/DIQ150plswork.wabbajack_cfde9691-43ce-4724-97ed-9536ef343087",
       "machineURL": "DIQ",
       "discordURL": "https://discord.gg/baldursgoonsacks",
-      "websiteURL": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/01-Home"
+      "websiteURL": "https://gitlab.com/Difficulty-Immersion-Quality/Difficulty-Immersion-Quality/-/wikis/00-Home"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
